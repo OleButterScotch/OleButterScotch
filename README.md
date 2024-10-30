@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OleButterScotch
+- 👋 Hi, I'm Marcus Moore
 - 👀 I’m interested in expanding my knowledge by exploring all avenues of the tech world. I am still new to all of this, and have yet to find a niche.
 - 🌱 I’m currently learning how to build my tech presence. My goal is to create an online resume of skills to hopefully get a career. 
 - 💞️ I’m looking to collaborate on anything and everything. I am open to feedback and shared experiences.
