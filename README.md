@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything and everything. I am open to feedback and shared experiences.
 - 📫 How to reach me ... I am currently in the process of starting a website. I will update the information when I am complete.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ... I am 30 with 2 kids currently going back to school and working 12-hr rotating shifts. I spend most of my time trying to learn new projects to upgrade my tech skills. If I have free time, I spend it with my family. 
+- ⚡ Fun fact: ... I have 2 kids, currently going back to school, and working 12-hr rotating shifts. I spend most of my time trying to learn new projects to upgrade my tech skills. If I have free time, I spend it with my family. 
 
 <!---
 OleButterScotch/OleButterScotch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
